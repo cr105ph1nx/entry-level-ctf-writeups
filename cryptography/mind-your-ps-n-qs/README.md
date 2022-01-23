@@ -43,7 +43,7 @@ n: 15845862961834121074684744235299922759400961540747985379169366095238942097591
 e: 65537
 ```
 
-- `c`, `n` and `e` are common ffsdfds in RSA. So this must be a RSA challenge. I invite you to read more about RSA cryptosystem from the articles I linked below.
+I invite you to read more about RSA cryptosystem from the articles I linked below.
 
 - By convention, C is the ciphertext we want to decode. N is the result of multiplying two prime numbers p and q (`n = p * q`). E is the multiplicative inverse of a private exponent and Phi such as Phi equals `(p-1)*(q-1)`.
 
